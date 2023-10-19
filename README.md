@@ -20,3 +20,7 @@ como se tivessemos que saber alguma coisa que esta faltando ali
 esse gap não me permitiu levar ate o final mas que com certeza vou realizar a integração.
 
 só estou demonstrando que o processo de ficar dois dias para resolução de erros não é bacana, para que talvez possa ser ajustado nas proximas vezes.
+
+
+depois de umas horas e pesquisas até mesmo no room
+foi possivel realizar o processo, estou colocando o arquivo neste isntante.
