@@ -23,4 +23,7 @@ só estou demonstrando que o processo de ficar dois dias para resolução de err
 
 
 depois de umas horas e pesquisas até mesmo no room
-foi possivel realizar o processo, estou colocando o arquivo neste isntante.
+foi possivel realizar o processo.
+
+
+
